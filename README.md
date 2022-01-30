@@ -1,7 +1,6 @@
 # BMSpeedo
-Files related to BMSpeedo Model Railroad Speedometer
+Files related to BMSpeedo Model Railroad Speedometer project
 
-Supplemental files for BMSpeedo Model Railroad Speedometer project
 
 YouTube Video - Revision 1:     https://youtu.be/RSsRMSD27-I
 
